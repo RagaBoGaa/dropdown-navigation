@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [@frontend mentor](https://www.frontendmentor.io/solutions/responsive-dropdown-navigation-hSbw_nyMjz)
 - Live Site URL: [@github](https://ragabogaa.github.io/dropdown-navigation)
 
 
